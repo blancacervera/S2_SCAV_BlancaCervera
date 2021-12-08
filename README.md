@@ -14,6 +14,7 @@ Creating a script in order to create a new BBB container.
 
 # Exercise 3
 Creating a script which reads the tracks from an MP4 container, and it’s able to say which broadcasting standard would fit.
+
 DISCLAIMER: I was not able to do this exercise as I did not have the time to understand it as well as I would like to.
 
 # Exercise 4
